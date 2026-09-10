@@ -1,0 +1,14 @@
+services:
+  postgres:
+    image: postgres:18
+    environment:
+      POSTGRES_DB: jk_retail
+      POSTGRES_USER: jk_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    ports:
+      - "5432:5432"
+    volumes:
+      - jk_retail_pgdata:/var/lib/postgresql/data
+
+volumes:
+  jk_retail_pgdata:

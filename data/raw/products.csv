@@ -1,0 +1,41 @@
+product_id,product_name,category,unit,default_purchase_price,default_selling_price,supplier_id,reorder_level,active
+P001,Purified Water 1L,Beverages,piece,7950,9400,S01,7,True
+P002,Cola 330ml,Beverages,piece,7950,9700,S02,10,True
+P003,Orange Drink 330ml,Beverages,piece,5200,7250,S03,6,True
+P004,Energy Drink 250ml,Beverages,piece,1700,2300,S04,11,True
+P005,Instant Coffee Mix,Beverages,piece,6300,8700,S05,10,True
+P006,Green Tea Bottle,Beverages,piece,4750,6750,S06,12,True
+P007,Potato Chips Small,Snacks,piece,2400,2750,S01,9,True
+P008,Cream Biscuit,Snacks,piece,1200,1450,S02,8,True
+P009,Wafer Roll,Snacks,piece,7150,9500,S03,12,True
+P010,Peanut Pack,Snacks,pack,5600,7200,S04,7,True
+P011,Seaweed Snack,Snacks,piece,4100,5600,S05,9,True
+P012,Cup Jelly,Snacks,piece,8800,9800,S06,11,True
+P013,Rice 1 viss,Staples,piece,6450,8950,S01,18,True
+P014,Cooking Oil 1L,Staples,piece,8900,10450,S02,12,True
+P015,Sugar 500g,Staples,piece,750,1050,S03,8,True
+P016,Salt 400g,Staples,piece,8500,10700,S04,15,True
+P017,Instant Noodles,Staples,piece,6850,8050,S05,13,True
+P018,Fish Sauce 700ml,Staples,piece,7950,11000,S06,15,True
+P019,Dishwashing Liquid,Household,piece,2500,3050,S01,11,True
+P020,Laundry Powder 500g,Household,piece,7050,9600,S02,13,True
+P021,Tissue Roll,Household,piece,8200,10450,S03,17,True
+P022,Garbage Bag Pack,Household,pack,7450,8800,S04,6,True
+P023,Sponge Pack,Household,pack,6250,7800,S05,18,True
+P024,Mosquito Coil,Household,piece,4800,5650,S06,9,True
+P025,Bath Soap,Personal Care,piece,2150,2450,S01,16,True
+P026,Shampoo Sachet Pack,Personal Care,pack,7250,8650,S02,7,True
+P027,Toothpaste 100g,Personal Care,piece,500,600,S03,10,True
+P028,Toothbrush,Personal Care,piece,750,950,S04,16,True
+P029,Sanitary Pad Pack,Personal Care,pack,7400,9250,S05,10,True
+P030,Baby Powder,Personal Care,piece,8500,9850,S06,5,True
+P031,Food Container,Kitchen,piece,4750,6800,S01,13,True
+P032,Plastic Cup Pack,Kitchen,pack,8500,10850,S02,6,True
+P033,Aluminium Foil,Kitchen,piece,450,550,S03,16,True
+P034,Cling Film,Kitchen,piece,5900,6900,S04,10,True
+P035,Scrub Brush,Kitchen,piece,8150,10250,S05,6,True
+P036,Ball Pen,Stationery,piece,4350,6250,S06,14,True
+P037,Exercise Book,Stationery,piece,3300,4650,S01,7,True
+P038,Pencil Pack,Stationery,pack,3300,4500,S02,10,True
+P039,Eraser,Stationery,piece,7550,9350,S03,16,True
+P040,A4 Paper Pack,Stationery,pack,5650,6800,S04,9,True

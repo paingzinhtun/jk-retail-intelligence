@@ -1,0 +1,3 @@
+purchase_line_id,purchase_id,purchase_date,supplier_id,product_id,quantity,unit_purchase_price,rejection_reason
+PL000004,PO00002,2026-06-01,S99,P002,38,7800,unknown_supplier_id
+PL000009,PO00003,2026-06-01,S03,P027,0,500,quantity_not_positive

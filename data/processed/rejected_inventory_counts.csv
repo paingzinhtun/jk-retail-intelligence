@@ -1,0 +1,2 @@
+count_id,count_date,product_id,counted_quantity,rejection_reason
+IC000008,2026-06-01,P008,-1,negative_or_missing_count

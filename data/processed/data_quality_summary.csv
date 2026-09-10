@@ -1,0 +1,4 @@
+dataset,received_rows,accepted_rows,rejected_rows,acceptance_rate
+sales,4513,4508,5,0.9988920895191669
+purchases,324,322,2,0.9938271604938271
+inventory_counts,240,239,1,0.9958333333333333

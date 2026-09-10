@@ -1,0 +1,6 @@
+sale_line_id,transaction_id,sale_datetime,product_id,quantity,unit_selling_price,unit_cost,discount_mmk,payment_method,rejection_reason
+SL0000051,T000038,2026-06-02 11:23:00,P012,1,9800.0,8800,500,KBZPay,duplicate_sale_line_id
+SL0000006,T000003,2026-06-01 15:50:00,P999,1,6900.0,5900,0,Cash,unknown_product_id
+SL0000014,T000009,2026-06-01 20:24:00,P017,-2,8050.0,6850,0,KBZPay,quantity_not_positive
+SL0000035,T000024,2026-06-01 12:46:00,P001,1,,7950,0,KBZPay,invalid_selling_price
+SL0000022,T000014,2026-06-01 07:48:00,P035,1,10250.0,8150,0,cash,invalid_payment_method

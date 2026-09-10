@@ -1,0 +1,7 @@
+supplier_id,supplier_name,township,lead_time_days,minimum_order_mmk
+S01,Shwe Pyi Distribution,Hlaing,2,100000
+S02,Ayeyar Wholesale,Bayint Naung,3,150000
+S03,Mingalar Consumer Supply,Tamwe,2,80000
+S04,Thazin Household Trading,Thingangyun,4,120000
+S05,Yadanar General Supply,Insein,5,200000
+S06,Golden Land Essentials,South Okkalapa,3,100000
